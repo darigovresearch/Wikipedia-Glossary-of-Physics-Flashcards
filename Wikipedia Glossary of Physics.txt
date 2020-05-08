@@ -1,3 +1,17 @@
+Introduction (Wikipedia Glossary of Physics)"|"
+<p>This deck has taken definitions outlined in <a href=""https://en.wikipedia.org/wiki/Glossary_of_physics"">Wikipedia's Glossary of physics</a> and put them into a form which can be easily learnt/revised using <a href=""https://apps.ankiweb.net/"">Anki</a> a cross platform app specifically designed for long term knowledge retention.</p>
+<h2>Notes</h2>
+<p>Please note the modifications which have been made &amp; where you can find updates.</p>
+<ol align=""left"">
+<li>The front of every card has ""(Wikipedia Glossary of Physics)"" appended to the end so that if you have any other words in your collection, the Wikipedia definition will still be added when importing it.</li>
+<li>Any updates or corrections to the deck will be available at <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Physics-Flashcards/""></a><a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Physics-Flashcards/"">https://github.com/darigovresearch/Wikipedia-Glossary-of-Physics-Flashcards/</a> so do return periodically to check if you have the latest version.</li>
+</ol>
+<p>Feel free to share the deck and give the repository a star so more people are likely to see this work and can get the most out of it.</p>
+<h2>License</h2>
+<p>Unless otherwise specified, everything in this deck is covered by the following licence:</p>
+<p>This deck uses material from the Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_physics"">""Glossary of physics""</a>, which is released under the <a href=""https://creativecommons.org/licenses/by-sa/3.0/"">Creative Commons Attribution-Share-Alike License 3.0</a>.</p>
+<p>To see this work in full go to <a href=""https://en.wikipedia.org/wiki/Glossary_of_physics"">https://en.wikipedia.org/wiki/Glossary_of_physics</a></p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Ab_initio_methods_(nuclear_physics)"" title=""Ab initio methods (nuclear physics)"">ab initio</a> (Wikipedia Glossary of Physics)"|"
 A mathematical model which seeks to describe <a href=""#nucleus""><span title=""See entry on this page at § nucleus"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">atomic nuclei</span></a> by solving the non-relativistic <a href=""#schrödinger_equation""><span title=""See entry on this page at § Schrödinger equation"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">Schrödinger equation</span></a> for all constituent <a href=""#nucleon""><span title=""See entry on this page at § nucleon"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">nucleons</span></a> and the <a href=""#nuclear_force""><span title=""See entry on this page at § nuclear force"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">forces</span></a> that exist between them. Such methods yield precise results for very light nuclei but become more approximate for heavier nuclei."
 "<a href=""https://en.wikipedia.org/wiki/Abbe_number"" title=""Abbe number"">Abbe number</a> (Wikipedia Glossary of Physics)"|"
