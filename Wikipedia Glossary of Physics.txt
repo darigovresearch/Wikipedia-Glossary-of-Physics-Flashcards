@@ -215,40 +215,6 @@ where:
 <dt class="glossary" id="azimuthal_quantum_number" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Azimuthal_quantum_number" title="Azimuthal quantum number">azimuthal quantum number</a></dfn></dt>
 <dd class="glossary"></dd>
 
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="babinet&#39;s_principle" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Babinet%27s_principle" title="Babinet&#39;s principle">Babinet's principle</a></dfn></dt>
 <dd class="glossary">A theorem concerning diffraction which states that the diffraction pattern from an opaque body is identical to that from a hole of the same size and shape except for the overall forward beam intensity.</dd>
@@ -410,40 +376,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dt class="glossary" id="buoyancy" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Buoyancy" title="Buoyancy">buoyancy</a></dfn></dt>
 <dd class="glossary">An upward <a href="#force"><span title="See entry on this page at § force" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">force</span></a> exerted by a fluid that opposes the weight of an immersed object.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="calculus" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Calculus" title="Calculus">calculus</a></dfn></dt>
 <dd class="glossary">A branch of <a href="#mathematics"><span title="See entry on this page at § mathematics" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">mathematics</span></a> that studies change and has two major sub-fields: <a href="/wiki/Differential_calculus" title="Differential calculus">differential calculus</a> (concerning rates of change and slopes of curves), and <a href="/wiki/Integral_calculus" class="mw-redirect" title="Integral calculus">integral calculus</a> (concerning accumulation of quantities and the areas under and between curves). These two branches are related to each other by the fundamental theorem of calculus.</dd>
@@ -610,40 +542,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dt class="glossary" id="cyclotron" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Cyclotron" title="Cyclotron">cyclotron</a></dfn></dt>
 <dd class="glossary">A type of <a href="#particle_accelerator"><span title="See entry on this page at § particle accelerator" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">particle accelerator</span></a> in which <a href="/wiki/Charged_particles" class="mw-redirect" title="Charged particles">charged particles</a> accelerate outwards from the center along a spiral path.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="dalton&#39;s_law" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Dalton%27s_law" title="Dalton&#39;s law">Dalton's law</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -706,40 +604,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dt class="glossary" id="dyne" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Dyne" title="Dyne">dyne</a></dfn></dt>
 <dd class="glossary"></dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="econophysics" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Econophysics" title="Econophysics">econophysics</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -885,40 +749,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dt class="glossary" id="experimental_physics" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Experimental_physics" title="Experimental physics">experimental physics</a></dfn></dt>
 <dd class="glossary"></dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="farad" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Farad" title="Farad">farad</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -998,40 +828,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dt class="glossary" id="fusion" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Nuclear_fusion" title="Nuclear fusion">fusion</a></dfn></dt>
 <dd class="glossary">A nuclear reaction in which two or more atomic nuclei join together, or "fuse", to form a single heavier nucleus.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="gamma_ray" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Gamma_ray" title="Gamma ray">gamma ray</a></dfn></dt>
 <dd class="glossary">A form of <a href="#electromagnetic_radiation"><span title="See entry on this page at § electromagnetic radiation" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">electromagnetic radiation</span></a> of high frequency and therefore high energy.</dd>
@@ -1072,40 +868,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dt class="glossary" id="group_velocity" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Group_velocity" title="Group velocity">group velocity</a></dfn></dt>
 <dd class="glossary"></dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="hadron" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Hadron" title="Hadron">hadron</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -1140,40 +902,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dt class="glossary" id="hydrostatics" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Hydrostatics" title="Hydrostatics">hydrostatics</a></dfn></dt>
 <dd class="glossary"></dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="ice_point" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ice_point" class="mw-redirect" title="Ice point">ice point</a></dfn></dt>
 <dd class="glossary">A physical process that results in the phase transition of a substance from a liquid to a solid.</dd>
@@ -1210,40 +938,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dt class="glossary" id="isotope" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Isotope" title="Isotope">isotope</a></dfn></dt>
 <dd class="glossary">A variant of a particular chemical element. While all isotopes of a given element share the same number of <a href="#proton"><span title="See entry on this page at § proton" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">protons</span></a>, each isotope differs from the others in its number of <a href="#neutron"><span title="See entry on this page at § neutron" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">neutrons</span></a>.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="josephson_effect" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Josephson_effect" title="Josephson effect">Josephson effect</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -1262,40 +956,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dt class="glossary" id="kirchhoff&#39;s_equations" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Kirchhoff%27s_equations" class="mw-redirect" title="Kirchhoff&#39;s equations">Kirchhoff's equations</a></dfn></dt>
 <dd class="glossary">In fluid dynamics, the Kirchhoff equations describe the motion of a rigid body in an ideal fluid.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="lagrangian_mechanics" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Lagrangian_mechanics" title="Lagrangian mechanics">Lagrangian mechanics</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -1338,40 +998,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dt class="glossary" id="longitudinal_wave" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Longitudinal_wave" title="Longitudinal wave">longitudinal wave</a></dfn></dt>
 <dd class="glossary"></dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="m-theory" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/M-theory" title="M-theory">M-theory</a></dfn></dt>
 <dd class="glossary">An extension of <a href="#string_theory"><span title="See entry on this page at § string theory" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">string theory</span></a> that attempts to unify seemingly contradictory mathematical formulations and which identifies 11 dimensions.</dd>
@@ -1458,40 +1084,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dd class="glossary">An elementary particle, technically classified as a <a href="#lepton"><span title="See entry on this page at § lepton" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">lepton</span></a>, that is similar to the <a href="#electron"><span title="See entry on this page at § electron" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">electron</span></a>, with unitary negative electric charge (−1) and a spin of 1⁄2. Muons are not believed to have any sub-structure.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="nanoengineering" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Nanoengineering" title="Nanoengineering">nanoengineering</a></dfn></dt>
 <dd class="glossary">The practice of engineering on the nanoscale. Nanoengineering is largely a synonym for <a href="/wiki/Nanotechnology" title="Nanotechnology">nanotechnology</a>, but emphasizes the applied rather than the pure science aspects of the field.</dd>
@@ -1538,40 +1130,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also spelled <b>nucleide</b>.</span></p>
 <dd class="glossary">An <a href="#atomic"><span title="See entry on this page at § atomic" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">atomic</span></a> species characterized by the specific composition of its <a href="#nucleus"><span title="See entry on this page at § nucleus" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">nucleus</span></a>, i.e. by its number of <a href="#proton"><span title="See entry on this page at § proton" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">protons</span></a>, its number of <a href="#neutron"><span title="See entry on this page at § neutron" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">neutrons</span></a>, and its nuclear <a href="#energy_level"><span title="See entry on this page at § energy level" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">energy state</span></a>.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="ohm" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ohm" title="Ohm">Ohm</a></dfn></dt>
 <dd class="glossary">The SI derived unit of electrical resistance.</dd>
@@ -1677,40 +1235,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dt class="glossary" id="pulse_wave" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Pulse_wave" title="Pulse wave">pulse wave</a></dfn></dt>
 <dd class="glossary"></dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="quantization" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Quantization_(physics)" title="Quantization (physics)">quantization</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -1770,40 +1294,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dt class="glossary" id="rydberg_formula" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Rydberg_formula" title="Rydberg formula">Rydberg formula</a></dfn></dt>
 <dd class="glossary">A formula used in atomic physics to describe the wavelengths of spectral lines of many chemical elements.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="scalar" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Scalar_(physics)" title="Scalar (physics)">scalar</a></dfn></dt>
 <dd class="glossary">Any simple physical quantity that can be described by a single number (as opposed to <a href="#vector"><span title="See entry on this page at § vector" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">vectors</span></a>, <a href="#tensor"><span title="See entry on this page at § tensor" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">tensors</span></a>, etc., which are described by several numbers such as magnitude and direction) and is unchanged by coordinate system rotations or translations (in Newtonian mechanics) or by Lorentz transformations or central-time translations (in relativity).</dd>
@@ -1919,40 +1409,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dt class="glossary" id="surface_tension" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Surface_tension" title="Surface tension">surface tension</a></dfn></dt>
 <dd class="glossary"></dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="temperature" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Temperature" title="Temperature">temperature</a></dfn></dt>
 <dd class="glossary">A physical property of <a href="#matter"><span title="See entry on this page at § matter" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">matter</span></a> that quantitatively expresses the common notions of hot and cold.</dd>
@@ -2014,40 +1470,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dt class="glossary" id="truncated_mean" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Truncated_mean" title="Truncated mean">truncated mean</a></dfn></dt>
 <dd class="glossary"></dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="uncertainty_principle" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Uncertainty_principle" title="Uncertainty principle">uncertainty principle</a></dfn></dt>
 <dd class="glossary">Any of a variety of mathematical inequalities asserting a fundamental limit to the precision with which certain pairs of physical properties of a <a href="#particle"><span title="See entry on this page at § particle" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">particle</span></a>, such as position <i>x</i> and momentum <i>p</i>, can be known simultaneously.</dd>
@@ -2104,40 +1526,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dt class="glossary" id="volume" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Volume" title="Volume">volume</a></dfn></dt>
 <dd class="glossary"></dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="w_and_z_bosons" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/W_and_Z_bosons" title="W and Z bosons">W and Z bosons</a></dfn></dt>
 <dd class="glossary"></dd>
