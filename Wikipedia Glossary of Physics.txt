@@ -1,4 +1,4 @@
-<h2><span class="mw-headline" id="A">A</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_physics&amp;action=edit&amp;section=1" title="Edit section: A">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+
 <dl class="glossary">
 <dt class="glossary" id="ab_initio" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ab_initio_methods_(nuclear_physics)" title="Ab initio methods (nuclear physics)">ab initio</a></dfn></dt>
 <dd class="glossary">A mathematical model which seeks to describe <a href="#nucleus"><span title="See entry on this page at § nucleus" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">atomic nuclei</span></a> by solving the non-relativistic <a href="#schrödinger_equation"><span title="See entry on this page at § Schrödinger equation" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">Schrödinger equation</span></a> for all constituent <a href="#nucleon"><span title="See entry on this page at § nucleon" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">nucleons</span></a> and the <a href="#nuclear_force"><span title="See entry on this page at § nuclear force" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">forces</span></a> that exist between them. Such methods yield precise results for very light nuclei but become more approximate for heavier nuclei.</dd>
@@ -249,7 +249,6 @@ where:
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_physics&amp;action=edit&amp;section=2" title="Edit section: B">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="babinet&#39;s_principle" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Babinet%27s_principle" title="Babinet&#39;s principle">Babinet's principle</a></dfn></dt>
 <dd class="glossary">A theorem concerning diffraction which states that the diffraction pattern from an opaque body is identical to that from a hole of the same size and shape except for the overall forward beam intensity.</dd>
@@ -445,7 +444,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_physics&amp;action=edit&amp;section=3" title="Edit section: C">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="calculus" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Calculus" title="Calculus">calculus</a></dfn></dt>
 <dd class="glossary">A branch of <a href="#mathematics"><span title="See entry on this page at § mathematics" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">mathematics</span></a> that studies change and has two major sub-fields: <a href="/wiki/Differential_calculus" title="Differential calculus">differential calculus</a> (concerning rates of change and slopes of curves), and <a href="/wiki/Integral_calculus" class="mw-redirect" title="Integral calculus">integral calculus</a> (concerning accumulation of quantities and the areas under and between curves). These two branches are related to each other by the fundamental theorem of calculus.</dd>
@@ -646,7 +644,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_physics&amp;action=edit&amp;section=4" title="Edit section: D">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="dalton&#39;s_law" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Dalton%27s_law" title="Dalton&#39;s law">Dalton's law</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -743,7 +740,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="E">E</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_physics&amp;action=edit&amp;section=5" title="Edit section: E">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="econophysics" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Econophysics" title="Econophysics">econophysics</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -923,7 +919,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_physics&amp;action=edit&amp;section=6" title="Edit section: F">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="farad" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Farad" title="Farad">farad</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -1037,7 +1032,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_physics&amp;action=edit&amp;section=7" title="Edit section: G">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="gamma_ray" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Gamma_ray" title="Gamma ray">gamma ray</a></dfn></dt>
 <dd class="glossary">A form of <a href="#electromagnetic_radiation"><span title="See entry on this page at § electromagnetic radiation" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">electromagnetic radiation</span></a> of high frequency and therefore high energy.</dd>
@@ -1112,7 +1106,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_physics&amp;action=edit&amp;section=8" title="Edit section: H">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="hadron" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Hadron" title="Hadron">hadron</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -1181,7 +1174,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_physics&amp;action=edit&amp;section=9" title="Edit section: I">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="ice_point" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ice_point" class="mw-redirect" title="Ice point">ice point</a></dfn></dt>
 <dd class="glossary">A physical process that results in the phase transition of a substance from a liquid to a solid.</dd>
@@ -1252,14 +1244,12 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="J">J</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_physics&amp;action=edit&amp;section=10" title="Edit section: J">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="josephson_effect" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Josephson_effect" title="Josephson effect">Josephson effect</a></dfn></dt>
 <dd class="glossary"></dd>
 <dt class="glossary" id="joule" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Joule" title="Joule">joule</a></dfn></dt>
 <dd class="glossary">A derived unit of <a href="#energy"><span title="See entry on this page at § energy" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">energy</span></a>, <a href="#work"><span title="See entry on this page at § work" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">work</span></a>, or amount of heat in the International System of Units.</dd>
 </dl>
-<h2><span class="mw-headline" id="K">K</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_physics&amp;action=edit&amp;section=11" title="Edit section: K">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="kelvin" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Kelvin" title="Kelvin">Kelvin</a></dfn></dt>
 <dd class="glossary">A scale and unit of measurement of <a href="#temperature"><span title="See entry on this page at § temperature" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">temperature</span></a>. The Kelvin scale is an absolute <a href="#thermodynamic_temperature"><span title="See entry on this page at § thermodynamic temperature" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">thermodynamic temperature</span></a> scale which uses <a href="#absolute_zero"><span title="See entry on this page at § absolute zero" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">absolute zero</span></a> as its null point.</dd>
@@ -1306,7 +1296,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_physics&amp;action=edit&amp;section=12" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="lagrangian_mechanics" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Lagrangian_mechanics" title="Lagrangian mechanics">Lagrangian mechanics</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -1383,7 +1372,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_physics&amp;action=edit&amp;section=13" title="Edit section: M">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="m-theory" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/M-theory" title="M-theory">M-theory</a></dfn></dt>
 <dd class="glossary">An extension of <a href="#string_theory"><span title="See entry on this page at § string theory" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">string theory</span></a> that attempts to unify seemingly contradictory mathematical formulations and which identifies 11 dimensions.</dd>
@@ -1504,7 +1492,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_physics&amp;action=edit&amp;section=14" title="Edit section: N">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="nanoengineering" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Nanoengineering" title="Nanoengineering">nanoengineering</a></dfn></dt>
 <dd class="glossary">The practice of engineering on the nanoscale. Nanoengineering is largely a synonym for <a href="/wiki/Nanotechnology" title="Nanotechnology">nanotechnology</a>, but emphasizes the applied rather than the pure science aspects of the field.</dd>
@@ -1585,7 +1572,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="O">O</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_physics&amp;action=edit&amp;section=15" title="Edit section: O">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="ohm" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ohm" title="Ohm">Ohm</a></dfn></dt>
 <dd class="glossary">The SI derived unit of electrical resistance.</dd>
@@ -1598,7 +1584,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dt class="glossary" id="optics" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Optics" title="Optics">optics</a></dfn></dt>
 <dd class="glossary">The branch of physics which involves the behaviour and properties of <a href="#light"><span title="See entry on this page at § light" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">light</span></a>, including its interactions with matter and the construction of instruments that use or detect it. Optics usually describes the behaviour of visible, ultraviolet, and infrared light; however, because light is one of several forms of <a href="#electromagnetic_radiation"><span title="See entry on this page at § electromagnetic radiation" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">electromagnetic radiation</span></a>, other forms such as <a href="#x-ray"><span title="See entry on this page at § X-ray" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">X-rays</span></a>, microwaves, and radio waves exhibit similar properties.</dd>
 </dl>
-<h2><span class="mw-headline" id="P">P</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_physics&amp;action=edit&amp;section=16" title="Edit section: P">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="paraffin" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Paraffin_wax" title="Paraffin wax">paraffin</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -1726,7 +1711,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="Q">Q</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_physics&amp;action=edit&amp;section=17" title="Edit section: Q">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="quantization" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Quantization_(physics)" title="Quantization (physics)">quantization</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -1753,7 +1737,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dt class="glossary" id="quasiparticle" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Quasiparticle" title="Quasiparticle">quasiparticle</a></dfn></dt>
 <dd class="glossary"></dd>
 </dl>
-<h2><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_physics&amp;action=edit&amp;section=18" title="Edit section: R">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="radiant_energy" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Radiant_energy" title="Radiant energy">radiant energy</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -1821,7 +1804,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_physics&amp;action=edit&amp;section=19" title="Edit section: S">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="scalar" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Scalar_(physics)" title="Scalar (physics)">scalar</a></dfn></dt>
 <dd class="glossary">Any simple physical quantity that can be described by a single number (as opposed to <a href="#vector"><span title="See entry on this page at § vector" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">vectors</span></a>, <a href="#tensor"><span title="See entry on this page at § tensor" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">tensors</span></a>, etc., which are described by several numbers such as magnitude and direction) and is unchanged by coordinate system rotations or translations (in Newtonian mechanics) or by Lorentz transformations or central-time translations (in relativity).</dd>
@@ -1971,7 +1953,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="T">T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_physics&amp;action=edit&amp;section=20" title="Edit section: T">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="temperature" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Temperature" title="Temperature">temperature</a></dfn></dt>
 <dd class="glossary">A physical property of <a href="#matter"><span title="See entry on this page at § matter" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">matter</span></a> that quantitatively expresses the common notions of hot and cold.</dd>
@@ -2067,7 +2048,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="U">U</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_physics&amp;action=edit&amp;section=21" title="Edit section: U">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="uncertainty_principle" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Uncertainty_principle" title="Uncertainty principle">uncertainty principle</a></dfn></dt>
 <dd class="glossary">Any of a variety of mathematical inequalities asserting a fundamental limit to the precision with which certain pairs of physical properties of a <a href="#particle"><span title="See entry on this page at § particle" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">particle</span></a>, such as position <i>x</i> and momentum <i>p</i>, can be known simultaneously.</dd>
@@ -2080,7 +2060,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dt class="glossary" id="utility_frequency" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Utility_frequency" title="Utility frequency">utility frequency</a></dfn></dt>
 <dd class="glossary">The frequency of the oscillations of <a href="#alternating_current"><span title="See entry on this page at § alternating current" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">alternating current</span></a> (AC) in an electric power grid transmitted from a power plant to the end-user.</dd>
 </dl>
-<h2><span class="mw-headline" id="V">V</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_physics&amp;action=edit&amp;section=22" title="Edit section: V">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="vacuum" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Vacuum" title="Vacuum">vacuum</a></dfn></dt>
 <dd class="glossary">An area of <a href="#space"><span title="See entry on this page at § space" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">space</span></a> which contains no <a href="#matter"><span title="See entry on this page at § matter" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">matter</span></a>.</dd>
@@ -2159,7 +2138,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="W">W</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_physics&amp;action=edit&amp;section=23" title="Edit section: W">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="w_and_z_bosons" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/W_and_Z_bosons" title="W and Z bosons">W and Z bosons</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -2200,17 +2178,14 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dt class="glossary" id="work_function" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Work_function" title="Work function">work function</a></dfn></dt>
 <dd class="glossary"></dd>
 </dl>
-<h2><span class="mw-headline" id="X">X</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_physics&amp;action=edit&amp;section=24" title="Edit section: X">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="x-ray" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/X-ray" title="X-ray">X-ray</a></dfn></dt>
 <dd class="glossary">A high-energy <a href="#photon"><span title="See entry on this page at § photon" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">photon</span></a> (between 100 <a href="#electron_volt"><span title="See entry on this page at § electron volt" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">eV</span></a> and 100 keV) with a wavelength shorter than that of ultraviolet radiation and longer than that of gamma radiation.</dd>
 </dl>
-<h2><span class="mw-headline" id="Y">Y</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_physics&amp;action=edit&amp;section=25" title="Edit section: Y">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="young’s_modulus" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Young%E2%80%99s_modulus" class="mw-redirect" title="Young’s modulus">Young’s modulus</a></dfn></dt>
 <dd class="glossary">A measure of the <a href="#stiffness"><span title="See entry on this page at § stiffness" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">stiffness</span></a> of a solid material which defines the relationship between mechanical <a href="#stress"><span title="See entry on this page at § stress" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">stress</span></a> and <a href="#strain"><span title="See entry on this page at § strain" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">strain</span></a>.</dd>
 </dl>
-<h2><span class="mw-headline" id="Z">Z</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_physics&amp;action=edit&amp;section=26" title="Edit section: Z">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="zeeman_effect" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Zeeman_effect" title="Zeeman effect">Zeeman effect</a></dfn></dt>
 <dd class="glossary">The effect of splitting a spectral line into several components in the presence of a static magnetic field by the lifting of degeneracy in electronic states.</dd>
