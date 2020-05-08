@@ -1,5 +1,3 @@
-
-<dl class="glossary">
 <dt class="glossary" id="ab_initio" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ab_initio_methods_(nuclear_physics)" title="Ab initio methods (nuclear physics)">ab initio</a></dfn></dt>
 <dd class="glossary">A mathematical model which seeks to describe <a href="#nucleus"><span title="See entry on this page at § nucleus" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">atomic nuclei</span></a> by solving the non-relativistic <a href="#schrödinger_equation"><span title="See entry on this page at § Schrödinger equation" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">Schrödinger equation</span></a> for all constituent <a href="#nucleon"><span title="See entry on this page at § nucleon" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">nucleons</span></a> and the <a href="#nuclear_force"><span title="See entry on this page at § nuclear force" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">forces</span></a> that exist between them. Such methods yield precise results for very light nuclei but become more approximate for heavier nuclei.</dd>
 <dt class="glossary" id="abbe_number" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Abbe_number" title="Abbe number">Abbe number</a></dfn></dt>
@@ -145,7 +143,7 @@ One <a href="/wiki/Turn_(geometry)" class="mw-redirect" title="Turn (geometry)">
 where:
 <dl><dd><i>ω</i> is the angular frequency or angular speed (measured in <a href="/wiki/Radians_per_second" class="mw-redirect" title="Radians per second">radians per second</a>),</dd>
 <dd><i>T</i> is the <a href="/wiki/Frequency" title="Frequency">period</a> (measured in <a href="/wiki/Second" title="Second">seconds</a>),</dd>
-<dd><i>f</i> is the <a href="/wiki/Ordinary_frequency" class="mw-redirect" title="Ordinary frequency">ordinary frequency</a> (measured in <a href="/wiki/Hertz" title="Hertz">hertz</a>) (sometimes symbolised with <a href="/wiki/Nu_(letter)" title="Nu (letter)"><i>ν</i></a>).</dd></dl></dd></dl>
+<dd><i>f</i> is the <a href="/wiki/Ordinary_frequency" class="mw-redirect" title="Ordinary frequency">ordinary frequency</a> (measured in <a href="/wiki/Hertz" title="Hertz">hertz</a>) (sometimes symbolised with <a href="/wiki/Nu_(letter)" title="Nu (letter)"><i>ν</i></a>).</dd></dl></dd>
 <dt class="glossary" id="angular_momentum" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Angular_momentum" title="Angular momentum">angular momentum</a></dfn></dt>
 <dd class="glossary">(Rarely, moment of momentum or rotational momentum) is the rotational equivalent of <a href="/wiki/Linear_momentum" class="mw-redirect" title="Linear momentum">linear momentum</a>. It is an important quantity in physics because it is a <a href="/wiki/Conservation_law" title="Conservation law">conserved quantity</a>—the total angular momentum of a closed system remains constant.</dd>
 <dt class="glossary" id="angular_velocity" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Angular_velocity" title="Angular velocity">angular velocity</a></dfn></dt>
@@ -215,7 +213,6 @@ where:
 <dt class="glossary" id="azimuthal_quantum_number" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Azimuthal_quantum_number" title="Azimuthal quantum number">azimuthal quantum number</a></dfn></dt>
 <dd class="glossary"></dd>
 
-<dl class="glossary">
 <dt class="glossary" id="babinet&#39;s_principle" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Babinet%27s_principle" title="Babinet&#39;s principle">Babinet's principle</a></dfn></dt>
 <dd class="glossary">A theorem concerning diffraction which states that the diffraction pattern from an opaque body is identical to that from a hole of the same size and shape except for the overall forward beam intensity.</dd>
 <dt class="glossary" id="background_radiation" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Background_radiation" title="Background radiation">background radiation</a></dfn></dt>
@@ -375,8 +372,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dd class="glossary">A measure of a substance's resistance to uniform compression defined as the ratio of the infinitesimal pressure increase to the resulting relative decrease of the volume. Its base unit is the <a href="#pascal"><span title="See entry on this page at § pascal" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">pascal</span></a>.</dd>
 <dt class="glossary" id="buoyancy" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Buoyancy" title="Buoyancy">buoyancy</a></dfn></dt>
 <dd class="glossary">An upward <a href="#force"><span title="See entry on this page at § force" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">force</span></a> exerted by a fluid that opposes the weight of an immersed object.</dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="calculus" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Calculus" title="Calculus">calculus</a></dfn></dt>
 <dd class="glossary">A branch of <a href="#mathematics"><span title="See entry on this page at § mathematics" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">mathematics</span></a> that studies change and has two major sub-fields: <a href="/wiki/Differential_calculus" title="Differential calculus">differential calculus</a> (concerning rates of change and slopes of curves), and <a href="/wiki/Integral_calculus" class="mw-redirect" title="Integral calculus">integral calculus</a> (concerning accumulation of quantities and the areas under and between curves). These two branches are related to each other by the fundamental theorem of calculus.</dd>
 <dt class="glossary" id="capacitance" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Capacitance" title="Capacitance">capacitance</a></dfn></dt>
@@ -541,8 +536,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dd class="glossary"></dd>
 <dt class="glossary" id="cyclotron" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Cyclotron" title="Cyclotron">cyclotron</a></dfn></dt>
 <dd class="glossary">A type of <a href="#particle_accelerator"><span title="See entry on this page at § particle accelerator" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">particle accelerator</span></a> in which <a href="/wiki/Charged_particles" class="mw-redirect" title="Charged particles">charged particles</a> accelerate outwards from the center along a spiral path.</dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="dalton&#39;s_law" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Dalton%27s_law" title="Dalton&#39;s law">Dalton's law</a></dfn></dt>
 <dd class="glossary"></dd>
 <dt class="glossary" id="damped_vibration" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Damped_vibration" class="mw-redirect" title="Damped vibration">damped vibration</a></dfn></dt>
@@ -603,8 +596,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dd class="glossary">The branch of <a href="#classical_mechanics"><span title="See entry on this page at § classical mechanics" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">classical mechanics</span></a> that studies <a href="#force"><span title="See entry on this page at § force" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">forces</span></a> and <a href="#torque"><span title="See entry on this page at § torque" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">torques</span></a> and their effects on <a href="#motion"><span title="See entry on this page at § motion" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">motion</span></a>, as opposed to <a href="#kinematics"><span title="See entry on this page at § kinematics" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">kinematics</span></a>, which studies motion without reference to these forces.</dd>
 <dt class="glossary" id="dyne" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Dyne" title="Dyne">dyne</a></dfn></dt>
 <dd class="glossary"></dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="econophysics" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Econophysics" title="Econophysics">econophysics</a></dfn></dt>
 <dd class="glossary"></dd>
 <dt class="glossary" id="elastic_collision" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Elastic_collision" title="Elastic collision">elastic collision</a></dfn></dt>
@@ -748,8 +739,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dd class="glossary">An adjective used to refer to a process or reaction that releases <a href="#energy"><span title="See entry on this page at § energy" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">energy</span></a> from a system, usually in the form of heat but also in the form of light, electricity, or sound. Contrast <i><a href="#endothermic"><span title="See entry on this page at § endothermic" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">endothermic</span></a></i>.</dd>
 <dt class="glossary" id="experimental_physics" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Experimental_physics" title="Experimental physics">experimental physics</a></dfn></dt>
 <dd class="glossary"></dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="farad" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Farad" title="Farad">farad</a></dfn></dt>
 <dd class="glossary"></dd>
 <dt class="glossary" id="falling_bodies" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Falling_bodies" class="mw-redirect" title="Falling bodies">falling bodies</a></dfn></dt>
@@ -827,8 +816,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dd class="glossary"></dd>
 <dt class="glossary" id="fusion" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Nuclear_fusion" title="Nuclear fusion">fusion</a></dfn></dt>
 <dd class="glossary">A nuclear reaction in which two or more atomic nuclei join together, or "fuse", to form a single heavier nucleus.</dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="gamma_ray" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Gamma_ray" title="Gamma ray">gamma ray</a></dfn></dt>
 <dd class="glossary">A form of <a href="#electromagnetic_radiation"><span title="See entry on this page at § electromagnetic radiation" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">electromagnetic radiation</span></a> of high frequency and therefore high energy.</dd>
 <dt class="glossary" id="gas" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Gas" title="Gas">gas</a></dfn></dt>
@@ -867,8 +854,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dd class="glossary"></dd>
 <dt class="glossary" id="group_velocity" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Group_velocity" title="Group velocity">group velocity</a></dfn></dt>
 <dd class="glossary"></dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="hadron" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Hadron" title="Hadron">hadron</a></dfn></dt>
 <dd class="glossary"></dd>
 <dt class="glossary" id="half-life" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Half-life" title="Half-life">half-life</a></dfn></dt>
@@ -901,8 +886,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dd class="glossary"></dd>
 <dt class="glossary" id="hydrostatics" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Hydrostatics" title="Hydrostatics">hydrostatics</a></dfn></dt>
 <dd class="glossary"></dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="ice_point" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ice_point" class="mw-redirect" title="Ice point">ice point</a></dfn></dt>
 <dd class="glossary">A physical process that results in the phase transition of a substance from a liquid to a solid.</dd>
 <dt class="glossary" id="impedance" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Electrical_impedance" title="Electrical impedance">impedance</a></dfn></dt>
@@ -937,14 +920,10 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dd class="glossary"></dd>
 <dt class="glossary" id="isotope" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Isotope" title="Isotope">isotope</a></dfn></dt>
 <dd class="glossary">A variant of a particular chemical element. While all isotopes of a given element share the same number of <a href="#proton"><span title="See entry on this page at § proton" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">protons</span></a>, each isotope differs from the others in its number of <a href="#neutron"><span title="See entry on this page at § neutron" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">neutrons</span></a>.</dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="josephson_effect" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Josephson_effect" title="Josephson effect">Josephson effect</a></dfn></dt>
 <dd class="glossary"></dd>
 <dt class="glossary" id="joule" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Joule" title="Joule">joule</a></dfn></dt>
 <dd class="glossary">A derived unit of <a href="#energy"><span title="See entry on this page at § energy" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">energy</span></a>, <a href="#work"><span title="See entry on this page at § work" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">work</span></a>, or amount of heat in the International System of Units.</dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="kelvin" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Kelvin" title="Kelvin">Kelvin</a></dfn></dt>
 <dd class="glossary">A scale and unit of measurement of <a href="#temperature"><span title="See entry on this page at § temperature" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">temperature</span></a>. The Kelvin scale is an absolute <a href="#thermodynamic_temperature"><span title="See entry on this page at § thermodynamic temperature" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">thermodynamic temperature</span></a> scale which uses <a href="#absolute_zero"><span title="See entry on this page at § absolute zero" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">absolute zero</span></a> as its null point.</dd>
 <dt class="glossary" id="kinematics" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Kinematics" title="Kinematics">kinematics</a></dfn></dt>
@@ -955,8 +934,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dd class="glossary">Two approximate equalities that deal with the current and voltage in electrical circuits.also called Kirchhoff's rules or simply Kirchhoff's laws (see also <a href="/wiki/Kirchhoff%27s_law_of_thermal_radiation" title="Kirchhoff&#39;s law of thermal radiation">Kirchhoff's laws</a> for other meanings of that term).</dd>
 <dt class="glossary" id="kirchhoff&#39;s_equations" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Kirchhoff%27s_equations" class="mw-redirect" title="Kirchhoff&#39;s equations">Kirchhoff's equations</a></dfn></dt>
 <dd class="glossary">In fluid dynamics, the Kirchhoff equations describe the motion of a rigid body in an ideal fluid.</dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="lagrangian_mechanics" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Lagrangian_mechanics" title="Lagrangian mechanics">Lagrangian mechanics</a></dfn></dt>
 <dd class="glossary"></dd>
 <dt class="glossary" id="laminar_flow" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Laminar_flow" title="Laminar flow">laminar flow</a></dfn></dt>
@@ -997,8 +974,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dd class="glossary">A matter in a state that has properties between those of a conventional liquid and those of a solid crystal. For instance, an LC may flow like a liquid, but its <a href="#molecule"><span title="See entry on this page at § molecule" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">molecules</span></a> may be oriented in a crystal-like way.</dd>
 <dt class="glossary" id="longitudinal_wave" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Longitudinal_wave" title="Longitudinal wave">longitudinal wave</a></dfn></dt>
 <dd class="glossary"></dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="m-theory" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/M-theory" title="M-theory">M-theory</a></dfn></dt>
 <dd class="glossary">An extension of <a href="#string_theory"><span title="See entry on this page at § string theory" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">string theory</span></a> that attempts to unify seemingly contradictory mathematical formulations and which identifies 11 dimensions.</dd>
 <dt class="glossary" id="mach_number" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Mach_number" title="Mach number">Mach number</a></dfn></dt>
@@ -1082,9 +1057,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dd class="glossary">Any change in the position of an object over <a href="#time"><span title="See entry on this page at § time" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">time</span></a>. Motion can be mathematically described in terms of <a href="#displacement_(vector)"><span title="See entry on this page at § displacement (vector)" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">displacement</span></a>, <a href="#distance"><span title="See entry on this page at § distance" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">distance</span></a>, <a href="#velocity"><span title="See entry on this page at § velocity" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">velocity</span></a>, <a href="#speed"><span title="See entry on this page at § speed" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">speed</span></a>, <a href="#acceleration"><span title="See entry on this page at § acceleration" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">acceleration</span></a>, and <a href="#momentum"><span title="See entry on this page at § momentum" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">momentum</span></a>, and is observed by attaching a <a href="#frame_of_reference"><span title="See entry on this page at § frame of reference" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">frame of reference</span></a> to an observer and measuring the change in an object's position relative to that frame. An object's motion cannot change unless it is acted upon by a <a href="#force"><span title="See entry on this page at § force" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">force</span></a>.</dd>
 <dt class="glossary" id="muon" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Muon" title="Muon">muon</a></dfn></dt>
 <dd class="glossary">An elementary particle, technically classified as a <a href="#lepton"><span title="See entry on this page at § lepton" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">lepton</span></a>, that is similar to the <a href="#electron"><span title="See entry on this page at § electron" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">electron</span></a>, with unitary negative electric charge (−1) and a spin of 1⁄2. Muons are not believed to have any sub-structure.</dd>
-
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="nanoengineering" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Nanoengineering" title="Nanoengineering">nanoengineering</a></dfn></dt>
 <dd class="glossary">The practice of engineering on the nanoscale. Nanoengineering is largely a synonym for <a href="/wiki/Nanotechnology" title="Nanotechnology">nanotechnology</a>, but emphasizes the applied rather than the pure science aspects of the field.</dd>
 <dt class="glossary" id="nanotechnology" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Nanotechnology" title="Nanotechnology">nanotechnology</a></dfn></dt>
@@ -1129,8 +1101,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dt class="glossary" id="nuclide" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Nuclide" title="Nuclide">nuclide</a></dfn></dt>
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also spelled <b>nucleide</b>.</span></p>
 <dd class="glossary">An <a href="#atomic"><span title="See entry on this page at § atomic" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">atomic</span></a> species characterized by the specific composition of its <a href="#nucleus"><span title="See entry on this page at § nucleus" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">nucleus</span></a>, i.e. by its number of <a href="#proton"><span title="See entry on this page at § proton" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">protons</span></a>, its number of <a href="#neutron"><span title="See entry on this page at § neutron" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">neutrons</span></a>, and its nuclear <a href="#energy_level"><span title="See entry on this page at § energy level" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">energy state</span></a>.</dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="ohm" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ohm" title="Ohm">Ohm</a></dfn></dt>
 <dd class="glossary">The SI derived unit of electrical resistance.</dd>
 <dt class="glossary" id="ohm&#39;s_law" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ohm%27s_law" title="Ohm&#39;s law">Ohm's law</a></dfn></dt>
@@ -1141,8 +1111,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dd class="glossary">An optical technique for the initialisation and readout of <a href="#quantum_spin"><span title="See entry on this page at § quantum spin" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">quantum spin</span></a> in some crystal defects.</dd>
 <dt class="glossary" id="optics" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Optics" title="Optics">optics</a></dfn></dt>
 <dd class="glossary">The branch of physics which involves the behaviour and properties of <a href="#light"><span title="See entry on this page at § light" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">light</span></a>, including its interactions with matter and the construction of instruments that use or detect it. Optics usually describes the behaviour of visible, ultraviolet, and infrared light; however, because light is one of several forms of <a href="#electromagnetic_radiation"><span title="See entry on this page at § electromagnetic radiation" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">electromagnetic radiation</span></a>, other forms such as <a href="#x-ray"><span title="See entry on this page at § X-ray" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">X-rays</span></a>, microwaves, and radio waves exhibit similar properties.</dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="paraffin" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Paraffin_wax" title="Paraffin wax">paraffin</a></dfn></dt>
 <dd class="glossary"></dd>
 <dt class="glossary" id="parallel_circuit" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Series_and_parallel_circuits" title="Series and parallel circuits">parallel circuit</a></dfn></dt>
@@ -1234,8 +1202,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dd class="glossary"></dd>
 <dt class="glossary" id="pulse_wave" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Pulse_wave" title="Pulse wave">pulse wave</a></dfn></dt>
 <dd class="glossary"></dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="quantization" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Quantization_(physics)" title="Quantization (physics)">quantization</a></dfn></dt>
 <dd class="glossary"></dd>
 <dt class="glossary" id="quantum" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Quantum" title="Quantum">quantum</a></dfn></dt>
@@ -1260,8 +1226,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dd class="glossary">An elementary particle and a fundamental constituent of matter. Quarks combine to form composite particles called <a href="#hadron"><span title="See entry on this page at § hadron" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">hadrons</span></a>, the most stable of which are <a href="#proton"><span title="See entry on this page at § proton" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">protons</span></a> and <a href="#neutron"><span title="See entry on this page at § neutron" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">neutrons</span></a>, the components of atomic nuclei.</dd>
 <dt class="glossary" id="quasiparticle" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Quasiparticle" title="Quasiparticle">quasiparticle</a></dfn></dt>
 <dd class="glossary"></dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="radiant_energy" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Radiant_energy" title="Radiant energy">radiant energy</a></dfn></dt>
 <dd class="glossary"></dd>
 <dt class="glossary" id="radiation" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Radiation" title="Radiation">radiation</a></dfn></dt>
@@ -1293,8 +1257,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dd class="glossary">The number of complete rotations or revolutions a rotating body makes per unit time.</dd>
 <dt class="glossary" id="rydberg_formula" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Rydberg_formula" title="Rydberg formula">Rydberg formula</a></dfn></dt>
 <dd class="glossary">A formula used in atomic physics to describe the wavelengths of spectral lines of many chemical elements.</dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="scalar" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Scalar_(physics)" title="Scalar (physics)">scalar</a></dfn></dt>
 <dd class="glossary">Any simple physical quantity that can be described by a single number (as opposed to <a href="#vector"><span title="See entry on this page at § vector" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">vectors</span></a>, <a href="#tensor"><span title="See entry on this page at § tensor" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">tensors</span></a>, etc., which are described by several numbers such as magnitude and direction) and is unchanged by coordinate system rotations or translations (in Newtonian mechanics) or by Lorentz transformations or central-time translations (in relativity).</dd>
 <dt class="glossary" id="scattering" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Scattering" title="Scattering">scattering</a></dfn></dt>
@@ -1408,8 +1370,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dd class="glossary"></dd>
 <dt class="glossary" id="surface_tension" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Surface_tension" title="Surface tension">surface tension</a></dfn></dt>
 <dd class="glossary"></dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="temperature" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Temperature" title="Temperature">temperature</a></dfn></dt>
 <dd class="glossary">A physical property of <a href="#matter"><span title="See entry on this page at § matter" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">matter</span></a> that quantitatively expresses the common notions of hot and cold.</dd>
 <dt class="glossary" id="tensile_modulus" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Tensile_Modulus" class="mw-redirect" title="Tensile Modulus">tensile modulus</a></dfn></dt>
@@ -1469,8 +1429,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dd class="glossary">The <a href="#temperature"><span title="See entry on this page at § temperature" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">temperature</span></a> and <a href="#pressure"><span title="See entry on this page at § pressure" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">pressure</span></a> at which the three phases (gas, liquid, and solid) of a given substance coexist in <a href="#thermodynamic_equilibrium"><span title="See entry on this page at § thermodynamic equilibrium" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">thermodynamic equilibrium</span></a>.</dd>
 <dt class="glossary" id="truncated_mean" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Truncated_mean" title="Truncated mean">truncated mean</a></dfn></dt>
 <dd class="glossary"></dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="uncertainty_principle" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Uncertainty_principle" title="Uncertainty principle">uncertainty principle</a></dfn></dt>
 <dd class="glossary">Any of a variety of mathematical inequalities asserting a fundamental limit to the precision with which certain pairs of physical properties of a <a href="#particle"><span title="See entry on this page at § particle" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">particle</span></a>, such as position <i>x</i> and momentum <i>p</i>, can be known simultaneously.</dd>
 <dt class="glossary" id="uniform_motion" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Uniform_motion" class="mw-redirect" title="Uniform motion">uniform motion</a></dfn></dt>
@@ -1481,8 +1439,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dd class="glossary"></dd>
 <dt class="glossary" id="utility_frequency" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Utility_frequency" title="Utility frequency">utility frequency</a></dfn></dt>
 <dd class="glossary">The frequency of the oscillations of <a href="#alternating_current"><span title="See entry on this page at § alternating current" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">alternating current</span></a> (AC) in an electric power grid transmitted from a power plant to the end-user.</dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="vacuum" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Vacuum" title="Vacuum">vacuum</a></dfn></dt>
 <dd class="glossary">An area of <a href="#space"><span title="See entry on this page at § space" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">space</span></a> which contains no <a href="#matter"><span title="See entry on this page at § matter" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">matter</span></a>.</dd>
 <dt class="glossary" id="valence_electron" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Valence_electron" title="Valence electron">valence electron</a></dfn></dt>
@@ -1525,8 +1481,6 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dd class="glossary"></dd>
 <dt class="glossary" id="volume" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Volume" title="Volume">volume</a></dfn></dt>
 <dd class="glossary"></dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="w_and_z_bosons" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/W_and_Z_bosons" title="W and Z bosons">W and Z bosons</a></dfn></dt>
 <dd class="glossary"></dd>
 <dt class="glossary" id="watt_(w)" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Watt" title="Watt">watt</a> (W)</dfn></dt>
@@ -1565,16 +1519,9 @@ The most important cases are when <span class="texhtml mvar" style="font-style:i
 <dd class="glossary"></dd>
 <dt class="glossary" id="work_function" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Work_function" title="Work function">work function</a></dfn></dt>
 <dd class="glossary"></dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="x-ray" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/X-ray" title="X-ray">X-ray</a></dfn></dt>
 <dd class="glossary">A high-energy <a href="#photon"><span title="See entry on this page at § photon" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">photon</span></a> (between 100 <a href="#electron_volt"><span title="See entry on this page at § electron volt" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">eV</span></a> and 100 keV) with a wavelength shorter than that of ultraviolet radiation and longer than that of gamma radiation.</dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="young’s_modulus" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Young%E2%80%99s_modulus" class="mw-redirect" title="Young’s modulus">Young’s modulus</a></dfn></dt>
 <dd class="glossary">A measure of the <a href="#stiffness"><span title="See entry on this page at § stiffness" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">stiffness</span></a> of a solid material which defines the relationship between mechanical <a href="#stress"><span title="See entry on this page at § stress" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">stress</span></a> and <a href="#strain"><span title="See entry on this page at § strain" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">strain</span></a>.</dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="zeeman_effect" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Zeeman_effect" title="Zeeman effect">Zeeman effect</a></dfn></dt>
 <dd class="glossary">The effect of splitting a spectral line into several components in the presence of a static magnetic field by the lifting of degeneracy in electronic states.</dd>
-</dl>
